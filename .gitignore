@@ -1,3 +1,6 @@
+src/3dgs_pipeline/dataset/1/depth/*.png
+src/3dgs_pipeline/dataset/1/input/*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

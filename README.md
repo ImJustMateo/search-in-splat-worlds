@@ -28,6 +28,8 @@ typiquement être exploitée comme point d'entrée d'algorithmes de recherche vi
 
 **Procédure** :
 
+![Workflow Diagram](./resources/images/workflow-vs-1.png)
+
 1. Construction d'un échantillon d'images issues de la captation vidéo via `FFmpeg`.
 2. Conversion des images brutes en `SfM Points`.
 3. Construction des cartes de profondeur des images brutes via le sous framework `DepthAnythingV2`.
